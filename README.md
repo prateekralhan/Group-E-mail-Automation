@@ -1,4 +1,4 @@
-# :computer: :fax: Group E-mail Automation :email: :mailbox:
+# :computer: :fax: Group E-mail Automation :email: :mailbox: [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 Want to send similar E-mails to a large number of people and feeling lazy enough to write those E-mails?? 
 This script is here to the rescue !!
 
